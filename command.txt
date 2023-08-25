@@ -8,3 +8,4 @@ git clone
 git pull origin main
 git push
 git fetch 
+fork repository 
