@@ -1,1 +1,3 @@
 This a feat2.txt file
+
+dev-2 added some changes to this feature
