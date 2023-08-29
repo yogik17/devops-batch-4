@@ -1,1 +1,4 @@
 This feat3.txt file crated from dev1
+gadabad fixed okk
+
+dev-2 added his changes 
