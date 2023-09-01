@@ -5,9 +5,3 @@ added another feature by dev-3
 dev-3 add some changes in running feature
 dev-3 update feature 
 dev-2 ne apna new feature add kar diya
-=======
-
-dev-2 ne apna new feature add kar diyai
-
-apla changes add kel
->>>>>>> 10b021e (added new changes)
